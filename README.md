@@ -6,19 +6,28 @@
 // Install dependencies 
 yarn 
 npm install
+```
 
+
+```
 // Start development mode
 yarn dev
 npm run dev
+``` 
 
+```
 // Build files
 yarn build
 npm run build
+```
 
+```
 // Generate static files
 yarn generate
 npm run generate
+```
 
+```
 // Start server from built files
 yarn start
 npm run start
