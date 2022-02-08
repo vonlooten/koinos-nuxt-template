@@ -7,7 +7,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "generate": "nuxt generate",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "lint": "eslint ./*/**.vue"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
@@ -15,6 +16,9 @@
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
-    "@nuxt/image": "^0.6.1"
+    "@nuxt/image": "^0.6.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.8.0",
+    "eslint-plugin-nuxt": "^3.1.0"
   }
 }
