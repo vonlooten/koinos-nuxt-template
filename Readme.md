@@ -38,6 +38,8 @@ check out the following places:
 
 [docs.koinos.io](https://docs.koinos.io)
 
+[koilib](https://github.com/joticajulian/koilib)
+
 [assembly script cdt](https://github.com/roaminroe/koinos-cdt-as)
 
 [nuxtjs](https://nuxtjs.org/examples/routing/hello-world)
