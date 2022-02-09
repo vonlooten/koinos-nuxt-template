@@ -34,6 +34,8 @@ Check out the [gist](https://github.com/joticajulian/kondor/blob/main/server.js)
 
 check out the following places:
 
+[koinos.io](https://koinos.io)
+
 [docs.koinos.io](https://docs.koinos.io)
 
 [assembly script cdt](https://github.com/roaminroe/koinos-cdt-as)
