@@ -22,8 +22,8 @@ node server.js
 ````
 Run the dev environment
 ``` 
-npm run dev
 yarn dev
+npm run dev
 ```
 
 This version of the nuxt starterkit includes the current koilib cors workaround.
