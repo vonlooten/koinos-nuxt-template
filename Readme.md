@@ -40,6 +40,12 @@ check out the following places:
 
 [koilib](https://github.com/joticajulian/koilib)
 
-[assembly script cdt](https://github.com/roaminroe/koinos-cdt-as)
+[koinos as sdk](https://github.com/roaminroe/koinos-as-sdk)
+
+[koinos as sdk examples](https://github.com/roaminroe/koinos-as-sdk-examples)
+
+[koinos c++ sdk](https://github.com/koinos/koinos-sdk-cpp)
+
+[koinos c++ sdk examples](https://github.com/koinos/koinos-contract-examples)
 
 [nuxtjs](https://nuxtjs.org/examples/routing/hello-world)
